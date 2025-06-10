@@ -1,2 +1,2 @@
 # html-portafolio
-A simple website, getting Started with Programming
+Getting Started with Programming
